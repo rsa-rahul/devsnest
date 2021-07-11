@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.app{
+    height: 225px;
+    width: 225px;
+    margin: auto;
+    margin-top: 200px;
+    border: 12px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.board{
+
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    height: 25px;
+    width: 25px;
+
+}
+.sqr{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    height: 25px;
+    width: 25px;
+}
+/* .board:nth-child(odd) {
+    background:rgb(97, 22, 22);
+  }
+  
+.board:nth-child(even) {
+    background: rgb(27, 129, 53);
+  } */

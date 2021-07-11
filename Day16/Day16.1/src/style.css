@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app{
+    color:rgb(69, 8, 71);
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+.card{
+    border: 4px solid rgb(34, 11, 41);
+    border-radius: 5px;
+    padding: 10px 10px;
+    box-shadow: pink black;
+    display: inline-block;
+    margin: auto;
+    width: 300px;
+ }
+.card img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
