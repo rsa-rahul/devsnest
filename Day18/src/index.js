@@ -16,70 +16,70 @@ const styleforbody={
 
 ReactDOM.render(
    <div style={styleforbody}>
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
-      <Box2 />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
-      <Box />
+      <Box1 />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
-      <Box2 />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
-      <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
       <Box2 />
-      <Box />
+      <Box1 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
+      <Box2 />
+      <Box1 />
    </div>,
   document.getElementById('root')
 );
